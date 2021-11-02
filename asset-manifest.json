@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/face-scanner/static/css/main.84db1e5a.chunk.css",
+    "main.js": "/face-scanner/static/js/main.14609127.chunk.js",
+    "main.js.map": "/face-scanner/static/js/main.14609127.chunk.js.map",
+    "runtime-main.js": "/face-scanner/static/js/runtime-main.fc1cbc6e.js",
+    "runtime-main.js.map": "/face-scanner/static/js/runtime-main.fc1cbc6e.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/face-scanner/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c728d5bd.chunk.js": "/face-scanner/static/js/2.c728d5bd.chunk.js",
+    "static/js/2.c728d5bd.chunk.js.map": "/face-scanner/static/js/2.c728d5bd.chunk.js.map",
+    "static/js/3.19786ab0.chunk.js": "/face-scanner/static/js/3.19786ab0.chunk.js",
+    "static/js/3.19786ab0.chunk.js.map": "/face-scanner/static/js/3.19786ab0.chunk.js.map",
+    "index.html": "/face-scanner/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/face-scanner/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.84db1e5a.chunk.css.map": "/face-scanner/static/css/main.84db1e5a.chunk.css.map",
+    "static/js/2.c728d5bd.chunk.js.LICENSE.txt": "/face-scanner/static/js/2.c728d5bd.chunk.js.LICENSE.txt",
+    "static/media/Vector Face By Antonis Makriyannis GR.dbfdf981.png": "/face-scanner/static/media/Vector Face By Antonis Makriyannis GR.dbfdf981.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1cbc6e.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c728d5bd.chunk.js",
+    "static/css/main.84db1e5a.chunk.css",
+    "static/js/main.14609127.chunk.js"
+  ]
+}
