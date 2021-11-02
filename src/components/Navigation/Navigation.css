@@ -1,0 +1,9 @@
+nav {
+    margin-left: auto;
+    flex-direction: row;
+    display: flex;
+}
+
+.hidden {
+    display: none;
+}
