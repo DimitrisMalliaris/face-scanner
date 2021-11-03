@@ -10,8 +10,7 @@ import SignIn from './components/SignIn/SignIn';
 import Register from './components/Register/Register';
 import 'tachyons';
 import './App.css';
-
-const apiURL = 'http://127.0.0.1:3001';
+import apiURL from './apiUrl';
 
 const paticleOptions = {
   particles: {

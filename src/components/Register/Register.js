@@ -1,4 +1,5 @@
 import react from 'react';
+import apiURL from '../../apiUrl';
 
 class Register extends react.Component {
 
@@ -26,7 +27,7 @@ class Register extends react.Component {
     onSubmitRegister = () => {
         const {email, password, name} = this.state;
 
-        fetch('http://127.0.0.1:3001/register', {
+        fetch(apiURL + '/register', {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
